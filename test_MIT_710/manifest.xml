@@ -1,0 +1,17 @@
+<package>
+  <description brief="test_MIT_710">
+
+     test_MIT_710
+
+  </description>
+  <author>yu</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/test_MIT_710</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

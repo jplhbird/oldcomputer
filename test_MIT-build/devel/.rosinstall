@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yu/catkin_ws/src/test_MIT-build/devel/setup.sh

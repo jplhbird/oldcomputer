@@ -1,0 +1,8 @@
+prefix=/home/yu/catkin_ws/src/test_MIT-build/devel
+
+Name: test_MIT
+Description: Description of test_MIT
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yu/catkin_ws/src/test_MIT-build/devel/lib 
+Requires: 
